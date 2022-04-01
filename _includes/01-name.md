@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# <h1> Vamos bien </h1>
+Catalina Vega y Bruno Villarroel, and include a header.
